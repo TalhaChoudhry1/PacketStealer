@@ -114,7 +114,7 @@ That's it. No database setup, no config files, no extra dependencies.
 
 ## Author
 
-**[Your Full Name]**
-Roll No: [Your Roll No]
+**Talha Choudhry**
+Roll No: BCSF24A008
 4th Semester — BS Computer Science
 PUCIT, University of the Punjab, Lahore
